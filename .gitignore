@@ -1,3 +1,5 @@
 .cm/
+bin/
+obj/
 *.amd64-linux
 input.txt
