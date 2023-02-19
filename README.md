@@ -11,3 +11,6 @@ Day 3: C
 Day 4: PHP
 
 Day 5: Kotlin
+
+Day 6: Go
+
