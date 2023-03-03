@@ -14,3 +14,4 @@ Day 5: Kotlin
 
 Day 6: Go
 
+Day 7: Python
